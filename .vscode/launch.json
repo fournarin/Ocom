@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/narinthon/Library/Group Containers/VUTU7AKEUR.jp.naver.line.mac/share/ข้อสอบ",
+      "program": "/Users/narinthon/Library/Group Containers/VUTU7AKEUR.jp.naver.line.mac/share/ข้อสอบ/build/Debug/outDebug"
+    }
+  ]
+}
